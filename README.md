@@ -10,9 +10,6 @@ The main objective is to improve problem-solving skills, understand programming 
 
 ## 📚 Topics Covered
 - Arrays
-- Searching
-- Sorting
-- Recursion
 - Strings
 - Basic Problem Solving
 - Other DSA Concepts
